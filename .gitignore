@@ -1,0 +1,19 @@
+.DS_Store
+Thumbs.db
+
+# React/Vite build artifacts
+react-auth-app/node_modules
+react-auth-app/dist
+react-auth-app/dist-ssr
+
+# Local environment overrides
+react-auth-app/.env
+react-auth-app/.env.local
+react-auth-app/.env.production
+react-auth-app/.env.*.local
+
+# Misc
+react-auth-app/npm-debug.log*
+react-auth-app/yarn-debug.log*
+react-auth-app/pnpm-debug.log*
+react-auth-app/app.zip
